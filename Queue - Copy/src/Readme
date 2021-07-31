@@ -1,0 +1,16 @@
+Project BlockingQueue
+
+
+This project is an implement of ArrayBlockingQueue and LinkedBlockingQueue with simplify methods.
+There are a producer and a consumer in both blocking queue,where producer add element in the queue and consumer take
+element out of the queue. When the queue is empty, it will block the consumer and when it's full, it will block the
+producer.
+The blocking method use methods of synchronized: wait(), notifyAll();
+The main method in ArrayBlockingQueue and LinkedBlockingQueue test Simultaneously readers and writers to show the
+properties of blocking queue in multithreading.
+
+Run the main methods in MyArrayBlockingQueue and MyLinkedBlockingQueue to see the result of manipulate blocking queue.
+
+
+
+Group member : Siyuan Zhu

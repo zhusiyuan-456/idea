@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0baa7194-c2ec-42e5-a2ef-89f948b62683" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YPFyNPIkB6RO61uAqO51mpU7bP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/software/processing-3.5.4/core/library/jogl-all.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright.filetypes.XML" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Selectk">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="untitled3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch2" />
+      <module name="untitled3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort.QuickSort3" />
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuickSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selectk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selectk" />
+      <module name="untitled3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode215.Solution" />
+      <module name="untitled3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode215.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Selectk" />
+        <item itemvalue="Application.BinarySearch2" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.QuickSort3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0baa7194-c2ec-42e5-a2ef-89f948b62683" name="Default Changelist" comment="" />
+      <created>1582836575569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582836575569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2493" height="238" key="GridCell.Tab.0.bottom" timestamp="1614404159016">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="238" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1614404159016" />
+    <state width="2493" height="238" key="GridCell.Tab.0.center" timestamp="1614404159016">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="238" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1614404159016" />
+    <state width="2493" height="238" key="GridCell.Tab.0.left" timestamp="1614404159016">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="238" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1614404159016" />
+    <state width="2493" height="238" key="GridCell.Tab.0.right" timestamp="1614404159016">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="238" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1614404159016" />
+    <state width="2493" height="236" key="GridCell.Tab.1.bottom" timestamp="1614404130075">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="236" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1614404130075" />
+    <state width="2493" height="236" key="GridCell.Tab.1.center" timestamp="1614404130075">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="236" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1614404130075" />
+    <state width="2493" height="236" key="GridCell.Tab.1.left" timestamp="1614404130075">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="236" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1614404130075" />
+    <state width="2493" height="236" key="GridCell.Tab.1.right" timestamp="1614404130075">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="236" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1614404130075" />
+    <state x="541" y="169" key="SettingsEditor" timestamp="1613959564070">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="541" y="169" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1613959564070" />
+    <state x="656" y="309" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1614208355005">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="656" y="309" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1400@0.0.2560.1400" timestamp="1614208355005" />
+    <state x="767" y="0" width="1009" height="1396" key="search.everywhere.popup" timestamp="1613959574134">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="767" y="0" width="1009" height="1396" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1613959574134" />
+  </component>
+</project>

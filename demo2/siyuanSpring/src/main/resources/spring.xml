@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:ctx="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context-2.5.xsd ">
+
+    <ctx:annotation-config></ctx:annotation-config>
+
+    <bean id="A_student" class="com.siyuan.entity.Student">
+        <property name="age" value="25"></property>
+        <property name="id" value="1"></property>
+        <property name="name" value="zhu"></property>
+    </bean>
+    <bean id="B_student" class="com.siyuan.entity.Student">
+        <constructor-arg name="id" value="12"></constructor-arg>
+        <constructor-arg name="age" value="1"></constructor-arg>
+        <constructor-arg name="name" value="hello"></constructor-arg>
+    </bean>
+
+</beans>

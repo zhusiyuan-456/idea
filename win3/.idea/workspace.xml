@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ffc20bc-c460-464b-8663-a9d475c9302a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z2rCH5mOw9uUyPgHG7gCJlyfmp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.Win4">
+    <configuration name="Win1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Win1" />
+      <module name="Win" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Win2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Win2" />
+      <module name="Win" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Win3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Win3" />
+      <module name="Win" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Win4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Win4" />
+      <module name="Win" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculator" />
+      <module name="Win" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Win4" />
+        <item itemvalue="Application.Win2" />
+        <item itemvalue="Application.calculator" />
+        <item itemvalue="Application.Win1" />
+        <item itemvalue="Application.Win3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ffc20bc-c460-464b-8663-a9d475c9302a" name="Default Changelist" comment="" />
+      <created>1584047900975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584047900975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="434" key="#Project_Structure" timestamp="1584048011329">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="640" y="434" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1584048011329" />
+    <state x="595" y="449" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588957593556">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="595" y="449" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1588957593556" />
+    <state x="870" y="576" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588957457396">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="870" y="576" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1588957457396" />
+    <state x="784" y="501" key="FileChooserDialogImpl" timestamp="1584069500802">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="784" y="501" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1584069500802" />
+    <state width="1340" height="285" key="GridCell.Tab.0.bottom" timestamp="1588964923948">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="285" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588964923948" />
+    <state width="1340" height="285" key="GridCell.Tab.0.center" timestamp="1588964923948">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="285" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588964923948" />
+    <state width="1340" height="285" key="GridCell.Tab.0.left" timestamp="1588964923948">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="285" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588964923948" />
+    <state width="1340" height="285" key="GridCell.Tab.0.right" timestamp="1588964923948">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1340" height="285" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588964923948" />
+    <state x="1339" y="675" key="com.intellij.ide.util.TipDialog" timestamp="1589416941363">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1339" y="675" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1589416941363" />
+    <state x="466" y="390" width="1200" height="838" key="dock-window-1" timestamp="1584048027985">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="466" y="390" width="1200" height="838" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1584048027985" />
+    <state x="1033" y="460" key="new project wizard" timestamp="1587087448722">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1033" y="460" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1587087448722" />
+  </component>
+</project>

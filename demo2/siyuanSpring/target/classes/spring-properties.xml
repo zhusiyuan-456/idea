@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:ctx="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context-2.5.xsd ">
+
+    <ctx:annotation-config></ctx:annotation-config>
+<!--导入外部资源-->
+    <ctx:property-placeholder location="jdbc.properties"></ctx:property-placeholder>
+<bean id="datasource" class="com.siyuan.entity.DataSource">
+    <property name="user" value="${user}"></property>
+    <property name="driverName" value="${driverName}"></property>
+    <property name="password" value="${password}"></property>
+    <property name="url" value="${url}"></property>
+</bean>
+
+
+</beans>

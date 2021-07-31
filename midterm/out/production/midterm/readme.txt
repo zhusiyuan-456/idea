@@ -1,0 +1,1 @@
+tri is solution7

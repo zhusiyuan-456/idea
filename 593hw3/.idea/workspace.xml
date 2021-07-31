@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="595a8e39-bc51-44bc-9f7b-fcc3e6194e1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iEf3lha094ZT6eUjDVwBjS6PmY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.InsertSort" />
+      <module name="593hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.MergeSort" />
+      <module name="593hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.QuickSort" />
+      <module name="593hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="group_sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="group_sorting" />
+      <module name="593hw3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="random_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.random_array" />
+      <module name="593hw3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.group_sorting" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.random_array" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="595a8e39-bc51-44bc-9f7b-fcc3e6194e1c" name="Default Changelist" comment="" />
+      <created>1601477474625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601477474625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="997" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1601515207322">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="997" y="274" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1601515207322" />
+    <state width="2476" height="287" key="GridCell.Tab.0.bottom" timestamp="1601945727837">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="287" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1601945727837" />
+    <state width="2476" height="287" key="GridCell.Tab.0.center" timestamp="1601945727837">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="287" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1601945727837" />
+    <state width="2476" height="287" key="GridCell.Tab.0.left" timestamp="1601945727837">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="287" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1601945727837" />
+    <state width="2476" height="287" key="GridCell.Tab.0.right" timestamp="1601945727837">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="287" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1601945727837" />
+    <state width="2476" height="440" key="GridCell.Tab.1.bottom" timestamp="1601931412071">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="440" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1601931412071" />
+    <state width="2476" height="440" key="GridCell.Tab.1.center" timestamp="1601931412071">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="440" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1601931412071" />
+    <state width="2476" height="440" key="GridCell.Tab.1.left" timestamp="1601931412071">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="440" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1601931412071" />
+    <state width="2476" height="440" key="GridCell.Tab.1.right" timestamp="1601931412071">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="440" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1601931412071" />
+    <state x="541" y="169" key="SettingsEditor" timestamp="1601931389316">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="541" y="169" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1601931389316" />
+    <state x="826" y="438" key="com.intellij.ide.util.TipDialog" timestamp="1602090712625">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="826" y="438" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1602090712625" />
+    <state x="373" y="111" key="new project wizard" timestamp="1602090739595">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="373" y="111" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1602090739595" />
+  </component>
+</project>

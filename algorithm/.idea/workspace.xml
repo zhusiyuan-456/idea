@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8136850-0ebd-47b9-a9ef-cfb28d664f9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hPCsceSsZi6H2uw3nDrI8OS7xY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.AnotherPeople">
+    <configuration name="AnotherPeople" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnotherPeople" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arg" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="man" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="man" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twosum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twosum" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <toRun name="Unnamed" type="JetRunConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="Unnamed" type="JetRunConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="algorithm" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="algorithm" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.twosum" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.arg" />
+      <item itemvalue="Application.man" />
+      <item itemvalue="Application.AnotherPeople" />
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Kotlin.algorithm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnotherPeople" />
+        <item itemvalue="Application.man" />
+        <item itemvalue="Application.arg" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.twosum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8136850-0ebd-47b9-a9ef-cfb28d664f9e" name="Default Changelist" comment="" />
+      <created>1599903547799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599903547799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="358" key="#Project_Structure" timestamp="1599903553979">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1599903553979" />
+    <state x="999" y="358" key="#Unnamed" timestamp="1599906190263">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="999" y="358" key="#Unnamed/0.0.2560.1400@0.0.2560.1400" timestamp="1599906190263" />
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599906576177">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1599906576177" />
+    <state x="1009" y="483" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599906575357">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1009" y="483" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1599906575357" />
+    <state width="2476" height="252" key="GridCell.Tab.0.bottom" timestamp="1602964218384">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="252" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602964218384" />
+    <state width="2476" height="252" key="GridCell.Tab.0.center" timestamp="1602964218384">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="252" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602964218384" />
+    <state width="2476" height="252" key="GridCell.Tab.0.left" timestamp="1602964218384">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="252" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602964218384" />
+    <state width="2476" height="252" key="GridCell.Tab.0.right" timestamp="1602964218384">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="252" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602964218384" />
+    <state x="648" y="230" key="SettingsEditor" timestamp="1600090760986">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="648" y="230" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1600090760986" />
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1602334073407">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1602334073407" />
+    <state x="373" y="111" key="new project wizard" timestamp="1600296686944">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="373" y="111" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1600296686944" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+    <context-param>
+        <param-name>username</param-name>
+        <param-value>all</param-value>
+    </context-param>
+
+    <servlet>
+        <servlet-name>controlServlet</servlet-name>
+        <servlet-class>com.siyuan.myServlet</servlet-class>
+        <init-param>
+            <param-name>username</param-name>
+            <param-value>4556565464156646546</param-value>
+        </init-param>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>controlServlet</servlet-name>
+        <url-pattern>/peter</url-pattern>
+    </servlet-mapping>
+</web-app>

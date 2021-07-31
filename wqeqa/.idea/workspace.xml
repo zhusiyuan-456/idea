@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9709a3df-6597-41c6-884c-b241add24ea1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lcuHF0x5tf1jZps7MziagoPG4m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\absno\IdeaProjects\wqeqa\src" />
+      <recent name="C:\Users\absno\IdeaProjects\wqeqa" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BlockingQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlockingQueueTest" />
+      <module name="wqeqa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BlockingQueueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9709a3df-6597-41c6-884c-b241add24ea1" name="Default Changelist" comment="" />
+      <created>1607908610113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607908610113</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="672" y="189" key="#Project_Structure" timestamp="1607908674329">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="672" y="189" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1607908674329" />
+    <state x="960" y="338" key="FileChooserDialogImpl" timestamp="1607908645494">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="338" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1607908645494" />
+    <state width="2476" height="3" key="GridCell.Tab.0.bottom" timestamp="1608062899430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="3" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1608062899430" />
+    <state width="2476" height="3" key="GridCell.Tab.0.center" timestamp="1608062899429">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="3" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1608062899429" />
+    <state width="2476" height="3" key="GridCell.Tab.0.left" timestamp="1608062899429">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="3" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1608062899429" />
+    <state width="2476" height="3" key="GridCell.Tab.0.right" timestamp="1608062899429">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2476" height="3" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1608062899429" />
+    <state x="773" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1607952241943">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="773" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1607952241943" />
+  </component>
+</project>

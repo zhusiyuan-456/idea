@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:ctx="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context-2.5.xsd ">
+
+    <ctx:annotation-config></ctx:annotation-config>
+
+ <bean id="student" class="com.siyuan.entity.Student" autowire="byType">
+     <property name="id" value="1"></property>
+     <property name="name" value="siyuan"></property>
+ </bean>
+    <bean id="carslol" class="com.siyuan.entity.Cars">
+        <constructor-arg name="num" value="123"></constructor-arg>
+        <constructor-arg name="brand" value="bmw"></constructor-arg>
+    </bean>
+    <bean id="cars123" class="com.siyuan.entity.Cars">
+        <constructor-arg name="num" value="123"></constructor-arg>
+        <constructor-arg name="brand" value="bmw"></constructor-arg>
+    </bean>
+
+</beans>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6afec7c7-af84-4ac0-b16b-6e6830550dec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ikd9Mo0eVZZuQ6OpqwPkRe4w9m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.ThreadTest">
+    <configuration name="Manager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Manager" />
+      <module name="coreJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadTest" />
+      <module name="coreJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="coreJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myClass" />
+      <module name="coreJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.myClass" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Manager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6afec7c7-af84-4ac0-b16b-6e6830550dec" name="Default Changelist" comment="" />
+      <created>1602455371918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602455371918</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2493" height="233" key="GridCell.Tab.0.bottom" timestamp="1603464861984">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="233" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1603464861984" />
+    <state width="2493" height="233" key="GridCell.Tab.0.center" timestamp="1603464861984">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="233" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1603464861984" />
+    <state width="2493" height="233" key="GridCell.Tab.0.left" timestamp="1603464861984">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="233" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1603464861984" />
+    <state width="2493" height="233" key="GridCell.Tab.0.right" timestamp="1603464861984">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="233" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1603464861984" />
+    <state width="2493" height="443" key="GridCell.Tab.1.bottom" timestamp="1602515309332">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="443" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602515309332" />
+    <state width="2493" height="443" key="GridCell.Tab.1.center" timestamp="1602515309332">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="443" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602515309332" />
+    <state width="2493" height="443" key="GridCell.Tab.1.left" timestamp="1602515309332">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="443" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602515309332" />
+    <state width="2493" height="443" key="GridCell.Tab.1.right" timestamp="1602515309332">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2493" height="443" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602515309332" />
+    <state x="773" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1603447965829">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="773" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1603447965829" />
+  </component>
+</project>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bfcf8db-604d-40ed-b4c6-34690f80b47b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bdbUeVdYADxqxrDUnlko6ZMT91" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="question3.TestQuiz" />
+      <module name="final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="question3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestQuiz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bfcf8db-604d-40ed-b4c6-34690f80b47b" name="Default Changelist" comment="" />
+      <created>1588964934476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588964934476</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="769" y="630" key="#Project_Structure" timestamp="1588965153816">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="769" y="630" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1588965153816" />
+    <state x="951" y="571" key="FileChooserDialogImpl" timestamp="1588967097503">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="951" y="571" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1588967097503" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1588972347979">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1588972347979" />
+  </component>
+</project>
