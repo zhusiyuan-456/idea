@@ -17,5 +17,14 @@
         <!-- 后缀 -->
         <property name="suffix" value=".jsp"></property>
     </bean>
+    <!--消息转换器message converter-->
+
+    <mvc:annotation-driven>
+        <mvc:message-converters>
+            <bean class="org.springframework.http.converter.StringHttpMessageConverter">
+                <property name="supportedMediaTypes" value="text/html;charset=UTF-8"></property>
+            </bean>
+        </mvc:message-converters>
+    </mvc:annotation-driven>
 
 </beans>
