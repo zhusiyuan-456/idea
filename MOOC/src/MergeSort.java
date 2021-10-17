@@ -15,7 +15,7 @@ public class MergeSort {
         Merge(arr,l,mid,r);
     }
     private static <E extends Comparable<E>> void Merge(E[] arr,int l,int mid,int r){
-        E[] temp= Arrays.copyOfRange(arr,l,r+1);
+        E[] temp= Arrays.copyOfRange(arr,l,r+1);//here the beigin index of array temp is 0!
         int i=l;
         int j=mid+1;
         //every round we assign arr[k];
